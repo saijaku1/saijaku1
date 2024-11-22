@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <a href="../README ja.md">
+  <a href="../READMEja.md">
     日本語
   </a>
   ・
