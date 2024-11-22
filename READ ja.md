@@ -34,7 +34,7 @@
 ## 
 
 ## 📞 連絡先
-- **メール**: 
+- 
 - **scratch(※ユーザー名の名前がめっちゃ変わっています。)**: [@saijaku](https://scratch.mit.edu/users/-1023_/)  
 - **GitHub**: [saijaku](https://github.com/saijaku1)
 
