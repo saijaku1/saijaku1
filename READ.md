@@ -2,7 +2,7 @@
 
 ## プロフィール
 <p align="center">
-  <img src="profile.jpg" alt="プロフィール写真" style="width: 150px; border-radius: 50%;">
+  <img src="jaku.jpg" alt="プロフィール写真" style="width: 150px; border-radius: 50%;">
 </p>
 
 ### 名前: 最弱  
