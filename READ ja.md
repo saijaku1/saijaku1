@@ -4,7 +4,7 @@
 <p align="center">
   <img src="jaku.png" alt="プロフィール写真" style="width: 150px; border-radius: 50%;">
 </p>
-[English](https://github.com/saijaku1)
+**Engish**:[English](https://github.com/saijaku1)
 ### 名前: 最弱  
 **こんにちは！** 私は最弱です。趣味はプログラミングと読書、そして新しい挑戦をすることです。HTMLやJSはできるけどCSSだけ全然できないです。(今頑張って学んでる)
 
