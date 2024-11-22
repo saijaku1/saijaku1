@@ -5,32 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>自己紹介</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f5f5f5;
-        }
-        header {
-            background-color: #0078D7;
-            color: white;
-            padding: 10px;
-            text-align: center;
-        }
-        section {
-            margin: 20px 0;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .profile-img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            display: block;
-            margin: 0 auto;
-        }
-    </style>
 </head>
 <body>
     <header>
