@@ -4,7 +4,7 @@
 <p align="center">
   <img src="jaku.png" alt="プロフィール写真" style="width: 150px; border-radius: 50%;">
 </p>
-< a href=">English</a>
+[English](https://github.com/saijaku1)
 ### 名前: 最弱  
 **こんにちは！** 私は最弱です。趣味はプログラミングと読書、そして新しい挑戦をすることです。HTMLやJSはできるけどCSSだけ全然できないです。(今頑張って学んでる)
 
@@ -27,10 +27,6 @@
 ## 📞 連絡先
 - **メール**: 
 - **scratch(※ユーザー名の名前がめっちゃ変わっています。)**: [@saijaku](https://scratch.mit.edu/users/-1023_/)  
-- **GitHub**: [saijaku](https://github.com/saijaku)
+- **GitHub**: [saijaku](https://github.com/saijaku1)
 
 ---
-
-<p align="center">
-  <i>&copy; 2024 最弱</i>
-</p>
