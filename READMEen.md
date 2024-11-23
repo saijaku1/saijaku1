@@ -5,7 +5,7 @@
   <img src="jaku.png" alt="プロフィール写真" style="width: 150px; border-radius: 50%;">
 </p>
 ### Name: Saijaku
-**Hello！** I'm Saijaku。My character is programming and Reading book,And challenging nee!。I can write HTML and JS but I cannot write only CSS(Now I'm learning)
+**Hello！** I'm Saijaku。My character is programming and Reading book,And challenging nee!。I can write HTML and JS but I cannot write only CSS(Now I'm learning).And I play Roblox!
 
 ---
 
@@ -21,6 +21,7 @@
 
 ## ✨ Character
 - 🌐 Programming
+- 🎮 Play Roblox
 - 📚 Reading book
 - 🏃🏽 Track and field(I'm the weakest)
 
