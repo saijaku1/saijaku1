@@ -34,7 +34,6 @@
 ## 
 
 ## 📞 Contact
-- 
 - **scratch(※The user name will be changed.)**: [@saijaku](https://scratch.mit.edu/users/-1023_/)  
 - **GitHub**: [saijaku](https://github.com/saijaku1)
 
