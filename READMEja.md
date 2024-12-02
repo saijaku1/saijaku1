@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/saijaku1/saijaku1/blob/main/READMEja.md">
+  <a href="https://github.com/saijaku1/saijaku1/blob/main/READMEen.md">
     English
   </a>
   ・
