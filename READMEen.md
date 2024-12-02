@@ -20,10 +20,10 @@
 </div>
 
 ## ✨ Character
-- 🌐 Programming
+- 🌐 Make Programming
 - 🎮 Play Roblox
 - 📚 Reading book
-- 🏃🏽 Track and field(I'm the weakest)
+- 🏃🏽 Play Track and field(I'm the weakest)
 
 ---
 
