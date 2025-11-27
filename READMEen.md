@@ -5,7 +5,7 @@
   <img src="jaku.png" alt="プロフィール写真" style="width: 150px; border-radius: 50%;">
 </p>
 ### Name: Saijaku
-**Hello！** I'm Saijaku。My character is programming and Reading book,And challenging nee!。I can write HTML and JS but I cannot write only CSS(Now I'm learning).And I play Roblox!
+**Hello！** I'm Jaku.My character is programming and Reading book,And challenging nee!。I can write HTML and JS but I cannot write only CSS(Now I've been learning).And I play Roblox!
 
 ---
 
@@ -24,11 +24,16 @@
 - 🎮 Play Roblox
 - 📚 Reading book
 - 🏃🏽 Play Track and field(I'm the weakest)
+- 💻　Play typing
 
 ---
 
 ## 🍣 My favorite foods
 > Ramen, Karaage(This is the best),I like Maguro.
+> karaage
+> sushi
+> yakisoba
+> takoyaki
 
 
 ---
