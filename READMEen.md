@@ -40,7 +40,7 @@
 ## 
 
 ## 📞 Contact
-- **scratch(※My account was taken over.So sad. )**: [@saijaku](https://scratch.mit.edu/users/-1023_/)  
+- **scratch(※My account was taken over by someone.So sad. )**: [@saijaku](https://scratch.mit.edu/users/-1023_/)  
 - **GitHub**: [saijaku](https://github.com/saijaku1)
 
 ---
