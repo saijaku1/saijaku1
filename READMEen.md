@@ -4,8 +4,8 @@
 <p align="center">
   <img src="jaku.png" alt="プロフィール写真" style="width: 150px; border-radius: 50%;">
 </p>
-### Name: Saijaku
-**Hello！** I'm Jaku.My character is programming and Reading book,And challenging nee!。I can write HTML and JS but I cannot write only CSS(Now I've been learning).And I play Roblox!
+### Name: Jaku
+**Hi there!** I'm Jaku. I'm an ordinary junior high school student.My favotite is typing!
 
 ---
 
